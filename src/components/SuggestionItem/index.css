@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.suggestion-list {
+  font-family: 'Roboto';
+  display: flex;
+  justify-content: space-between;
+}
+.description {
+  font-size: 18px;
+  color: #475569;
+  font-weight: 500;
+}
+.btn-style {
+  margin-top: 12px;
+  height: 40px;
+  width: 100px;
+  background-color: transparent;
+  border: none;
+  border-radius: 10px;
+}
+.arrow-icon {
+  height: 35px;
+  width: 40px;
+  padding: 5px;
+}
